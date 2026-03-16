@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Popular.css"
-import Item from "../Item/item.jsx"
+import Item from "../Item/Item";
 import data_product from '../../assets/data.js'
 const Popular = () => {
   return (
